@@ -26,7 +26,7 @@ Discord: [@thegreatsolution] <br>
 
     ```
     git clone https://github.com/marccanlas/pumpfun-raydium-bundler.git
-    cd pumpfun-bundler
+    cd pumpfun-raydium-bundler
     ```
 2. Install dependencies
 
